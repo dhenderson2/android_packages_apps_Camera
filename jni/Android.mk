@@ -38,7 +38,8 @@ LOCAL_SRC_FILES := \
         feature_stab/db_vlvm/db_utilities_poly.cpp \
         feature_stab/src/dbreg/dbreg.cpp \
         feature_stab/src/dbreg/dbstabsmooth.cpp \
-        feature_stab/src/dbreg/vp_motionmodel.c
+        feature_stab/src/dbreg/vp_motionmodel.c \
+        CameraHdAudioOutput.cpp
 
 ifeq ($(TARGET_ARCH), arm)
         LOCAL_SDK_VERSION := 9

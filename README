@@ -1,0 +1,5 @@
+This is a proof of concept for using the Nexus 5 Camera HD audio output.
+
+The code is a patch to the standard camera app from CyanogenMod that interfaces with the internal Camera HD audio output APIs.
+This was successfully tested on the American LTE version of the Google Nexus 5.
+Use at your own risk!
